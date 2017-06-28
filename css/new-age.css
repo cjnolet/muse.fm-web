@@ -414,9 +414,10 @@ footer ul li a.active {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #230046;
-  border-color: #000000;
-}
+/*  background-color: #230046;
+*/
+/*  border-color: #000000;
+*/}
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   text-transform: uppercase;
