@@ -95,11 +95,11 @@ p {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #230046;
+  color: 4B0082;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #230046 !important;
+  color: 4B0082 !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
