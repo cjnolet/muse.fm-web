@@ -305,7 +305,7 @@ section.cta {
   -o-background-size: cover;
   background-position: center;
   background-image: url('../img/togetherness.jpg');
-  padding: 200px 0;
+  padding: 50px 200px 0px 0px;
 }
 section.cta .cta-content {
   position: relative;
@@ -316,7 +316,7 @@ section.cta .cta-content {
 }
 section.cta .cta-content h2 {
   margin-top: 0;
-  margin-top: 20px;
+  margin-bottom: 20px;
   margin-left: 25px;
   color: white;
   max-width: 1000px;
