@@ -98,7 +98,7 @@ p {
 .navbar-default .nav > li > a:focus:hover {
   color: #8A2BE2;
 }
-.navbar-default .nav > li.active > a,
+.navbar-default .nav > li.aive > a,
 .navbar-default .nav > li.active > a:focus {
   color: #8A2BE2 !important;
   background-color: transparent;
@@ -304,7 +304,7 @@ section.cta {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/bg-cta.jpg');
+  background-image: url('../img/togetherness.jpg');
   padding: 200px 0;
 }
 section.cta .cta-content {
