@@ -343,6 +343,10 @@ section.contact h2 {
   margin-top: 0;
   margin-bottom: 25px;
 }
+section.contact h3 {
+  margin: 0;
+  margin-bottom: 20px;
+}
 section.contact h2 i {
   color: #dd4b39;
 }
