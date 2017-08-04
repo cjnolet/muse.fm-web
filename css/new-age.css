@@ -192,7 +192,7 @@ header .device-container .screen img {
 }
 @media (min-width: 768px) {
   header {
-    min-height: 130px;
+    min-height: 200px;
   }
   header .header-content {
     text-align: center;
