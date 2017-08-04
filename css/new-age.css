@@ -306,6 +306,7 @@ section.cta {
   background-position: center;
   background-image: url('../img/togetherness.jpg');
   padding: 50px 0px 500px 0px;
+  box-shadow: 3px 3px 2px #0000;
 }
 section.cta .cta-content {
   position: relative;
