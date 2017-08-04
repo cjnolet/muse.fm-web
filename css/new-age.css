@@ -319,7 +319,7 @@ section.cta .cta-content h2 {
   margin-bottom: 20px;
   margin-left: 125px;
   color: white;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #000000;
   max-width: 1000px;
   font-size: 35px;
 }
