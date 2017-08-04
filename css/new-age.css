@@ -400,8 +400,8 @@ footer ul li a.active {
 }
 .bg-primary {
   background: #230046;
-  background: -webkit-linear-gradient(#230046, #000000);
-  background: linear-gradient(#230046, #000000);
+  background: url("../img/sunrise.jpg"),-webkit-linear-gradient(#230046, #000000);
+  background: url("../img/sunrise.jpg"),linear-gradient(#230046, #000000);
 }
 .text-primary {
   color: #fdcc52;
