@@ -286,8 +286,8 @@ section.features .feature-item h3 {
 }
 section.features .feature-item i {
   font-size: 80px;
-  background: -webkit-linear-gradient(to left, #000000, #230046);
-  background: linear-gradient(to left, #000000, #230046);
+  background: url("../img/sunrise.jpg"), -webkit-linear-gradient(to left, #000000, #230046);
+  background: url("../img/sunrise.jpg"), linear-gradient(to left, #000000, #230046);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
