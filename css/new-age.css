@@ -337,6 +337,7 @@ section.cta .overlay {
 }
 section.contact {
   text-align: center;
+  padding: 75px 0;
 }
 section.contact h2 {
   margin-top: 0;
@@ -350,7 +351,7 @@ section.contact ul.list-social {
 }
 section.contact ul.list-social li a {
   display: block;
-  height: 50px;
+  height: 80px;
   width: 80px;
   line-height: 80px;
   font-size: 40px;
